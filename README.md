@@ -1,1 +1,1 @@
-# MultipleDBSConfigSpringApp
+# mydynamodbspring
